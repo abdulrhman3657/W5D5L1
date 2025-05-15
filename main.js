@@ -45,7 +45,15 @@ const app =
                     <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
                     <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
                 </ul> 
-            </div>    
+            </div>
+                        <div>
+                <h3><b>Designed a website using Boostrap</b></h3>
+                <ul>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                </ul> 
+            </div>   
         </div>
 
         <div>
@@ -53,6 +61,15 @@ const app =
             <h3>Qassim University - B.S., Computer Science</h3>
             <p>2018 - 2024</p>
         </div>
+
+        <div>
+            <h3 className="red">Skills</h3>
+                <ul>
+                    <li>task1</li>
+                    <li>task2</li>
+                    <li>task3</li>
+                </ul>
+        </div>  
 
 
     </div>
