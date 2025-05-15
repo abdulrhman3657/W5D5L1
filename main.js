@@ -22,9 +22,9 @@ const app =
             <h3 className="red">Work Experience</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam voluptatibus consequatur repudiandae facere numquam ipsam qui eum cum. Libero commodi totam inventore voluptatibus adipisci doloremque iure.</p>
             <ul>
-                <li>Task 1</li>
-                <li>Task 2</li>
-                <li>Task 3</li>
+                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
             </ul>   
         </div>
 
@@ -33,23 +33,23 @@ const app =
             <div>
                 <h3><b>Full-Stack App with Authentication</b></h3>
                 <ul>
-                    <li>Task 1</li>
-                    <li>Task 2</li>
-                    <li>Task 3</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
                 </ul> 
             </div>
             <div>
                 <h3><b>Designed a website using Boostrap</b></h3>
                 <ul>
-                    <li>Task 1</li>
-                    <li>Task 2</li>
-                    <li>Task 3</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
+                    <li>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam</li>
                 </ul> 
             </div>    
         </div>
 
         <div>
-            <h3 className="red">Education</h3>
+            <h3 className="red" >Education</h3>
             <h3>Qassim University - B.S., Computer Science</h3>
             <p>2018 - 2024</p>
         </div>
