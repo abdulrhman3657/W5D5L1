@@ -14,12 +14,12 @@ const app =
     </nav>
 
 
-    <div className="container p-3 border">
+    <div className="container p-3">
         <h1>Abdulrhman Alnafisi</h1>
         <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam voluptatibus consequatur repudiandae facere numquam ipsam qui eum cum. Libero commodi totam inventore voluptatibus adipisci doloremque iure.</p>
 
         <div>
-            <h3>Work Experience</h3>
+            <h3 className="red">Work Experience</h3>
             <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Expedita, officiis perspiciatis dignissimos nam voluptatibus consequatur repudiandae facere numquam ipsam qui eum cum. Libero commodi totam inventore voluptatibus adipisci doloremque iure.</p>
             <ul>
                 <li>Task 1</li>
@@ -29,7 +29,7 @@ const app =
         </div>
 
         <div>
-            <h3>Projects</h3>
+            <h3 className="red">Projects</h3>
             <div>
                 <h3><b>Full-Stack App with Authentication</b></h3>
                 <ul>
@@ -49,7 +49,7 @@ const app =
         </div>
 
         <div>
-            <h3>Education</h3>
+            <h3 className="red">Education</h3>
             <h3>Qassim University - B.S., Computer Science</h3>
             <p>2018 - 2024</p>
         </div>
